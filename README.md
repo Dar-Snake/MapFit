@@ -37,7 +37,7 @@ Ensure you have the following installed on your system:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/mapfit.git
+   git clone https://github.com/dar-snake/mapfit.git
    ```
 
 2. Navigate to the project directory:
